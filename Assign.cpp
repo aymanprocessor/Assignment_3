@@ -29,3 +29,11 @@ class Derived: public Product
 public: 
     void printName() { cout << "printName() called"; } 
 }; 
+}
+
+
+int main(){
+Product prod = new Product ();
+}
+
+
